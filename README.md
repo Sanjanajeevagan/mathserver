@@ -95,7 +95,8 @@ urlpatterns = [
 ```
 
 # SERVER SIDE PROCESSING:
-![alt text](cal.png)
+![image](https://github.com/user-attachments/assets/ea90534c-688e-49eb-b4da-7af97fcc8de0)
+
 # HOMEPAGE:
 ![alt text](web.png)
 # RESULT:
