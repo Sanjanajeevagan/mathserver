@@ -1,4 +1,4 @@
-# Ex.05 Design a Website for Server Side Processing
+![Screenshot 2025-04-19 144309](https://github.com/user-attachments/assets/426eba5a-4935-43d9-8e5a-a6be64d9a7e7)# Ex.05 Design a Website for Server Side Processing
 # Date:11.04.25
 # AIM:
 To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side.
@@ -99,7 +99,10 @@ urlpatterns = [
 
 
 # HOMEPAGE:
-![Uploading Screenshot 2025-04-19 144309.png…]()
+
+![Screenshot 2025-04-19 144309](https://github.com/user-attachments/assets/8d6eeef3-741a-4f15-a1c0-224e32589a91)
+
+
 
 
 # RESULT:
